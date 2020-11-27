@@ -1,0 +1,6 @@
+{
+	"time" : {time},
+  	"device" : "{device}",
+	"data" : "{data}",
+	"seqNumber":{seqNumber}
+}
