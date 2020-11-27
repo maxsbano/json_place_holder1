@@ -1,11 +1,10 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+	"time" : {time},
+  	"device" : "{device}",
+    "data" : "{data}",
+    "seqNumber":{seqNumber}
   }
+  ]
 }
